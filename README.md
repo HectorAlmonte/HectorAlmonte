@@ -104,6 +104,16 @@ const hector = {
 
 <br/>
 
+## 🏆 Trofeos
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=HectorAlmonte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -118,6 +128,20 @@ const hector = {
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HectorAlmonte&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HectorAlmonte/HectorAlmonte/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HectorAlmonte/HectorAlmonte/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HectorAlmonte/HectorAlmonte/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
