@@ -104,16 +104,6 @@ const hector = {
 
 <br/>
 
-## 🏆 Trofeos
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HectorAlmonte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
