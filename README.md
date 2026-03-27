@@ -68,16 +68,39 @@ const hector = {
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/HectorAlmonte/gre-materiales">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorAlmonte&repo=gre-materiales&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/HectorAlmonte/rindex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorAlmonte&repo=rindex&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 gre-materiales</h3>
+      <p align="center">
+        <a href="https://github.com/HectorAlmonte/gre-materiales">
+          <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>PWA para consulta de <strong>2,661 materiales peligrosos</strong>. OCR scanning, soporte offline con IndexedDB y panel admin multi-tenant.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6B35?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 rindex</h3>
+      <p align="center">
+        <a href="https://github.com/HectorAlmonte/rindex">
+          <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Plataforma de <strong>evaluación académica</strong> con control de acceso por roles, exámenes cronometrados, scoring ponderado y analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
